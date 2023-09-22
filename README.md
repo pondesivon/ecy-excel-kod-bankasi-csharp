@@ -1,6 +1,6 @@
 # ecy-excel-kod-bankasi-csharp
 
-excelvba.net sitesinden indirilmiş olan ve excel ile hazırlanmış olan programın csharp ile hazırlanmış alternatif bir versiyonudur.
+excelvba.net sitesinden indirilmiş olan ve excel ile hazırlanmış olan programın csharp ile hazırlanmış alternatif bir versiyonudur. Excel VBA ile ilgili kod arşivi vardır.
 
 # klasörler
 - EcyExcelKodBankasiRichTextBox (Proje)

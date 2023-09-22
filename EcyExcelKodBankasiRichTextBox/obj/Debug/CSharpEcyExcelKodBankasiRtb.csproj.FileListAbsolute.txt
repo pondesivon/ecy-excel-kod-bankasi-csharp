@@ -1,0 +1,10 @@
+C:\Users\Samsung\source\repos\CSharpEcyExcelKodBankasi\CSharpEcyExcelKodBankasiRtb\bin\Debug\CSharpEcyExcelKodBankasiRtb.exe.config
+C:\Users\Samsung\source\repos\CSharpEcyExcelKodBankasi\CSharpEcyExcelKodBankasiRtb\bin\Debug\CSharpEcyExcelKodBankasiRtb.exe
+C:\Users\Samsung\source\repos\CSharpEcyExcelKodBankasi\CSharpEcyExcelKodBankasiRtb\bin\Debug\CSharpEcyExcelKodBankasiRtb.pdb
+C:\Users\Samsung\source\repos\CSharpEcyExcelKodBankasi\CSharpEcyExcelKodBankasiRtb\obj\Debug\CSharpEcyExcelKodBankasiRtb.csprojAssemblyReference.cache
+C:\Users\Samsung\source\repos\CSharpEcyExcelKodBankasi\CSharpEcyExcelKodBankasiRtb\obj\Debug\CSharpEcyExcelKodBankasiRtb.Properties.Resources.resources
+C:\Users\Samsung\source\repos\CSharpEcyExcelKodBankasi\CSharpEcyExcelKodBankasiRtb\obj\Debug\CSharpEcyExcelKodBankasiRtb.csproj.GenerateResource.cache
+C:\Users\Samsung\source\repos\CSharpEcyExcelKodBankasi\CSharpEcyExcelKodBankasiRtb\obj\Debug\CSharpEcyExcelKodBankasiRtb.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\source\repos\CSharpEcyExcelKodBankasi\CSharpEcyExcelKodBankasiRtb\obj\Debug\CSharpEcyExcelKodBankasiRtb.exe
+C:\Users\Samsung\source\repos\CSharpEcyExcelKodBankasi\CSharpEcyExcelKodBankasiRtb\obj\Debug\CSharpEcyExcelKodBankasiRtb.pdb
+C:\Users\Samsung\source\repos\CSharpEcyExcelKodBankasi\CSharpEcyExcelKodBankasiRtb\obj\Debug\CSharpEcyExcelKodBankasiRtb.EcyExcelKodBankasiRtbForm.resources

@@ -7,7 +7,7 @@ excelvba.net sitesinden indirilmiş olan ve excel ile hazırlanmış olan progra
 - EcyExcelKodBankasiFastColoredTextBox (Proje)
 - EcyExcelKodBankasiUygulama (Son Kullanıcı)
 
-Veri tabanı ve exe dosyaları "EcyExcelKodBankasiUygulama" birleştirilmiştir.
+Veri tabanı ve exe dosyaları "EcyExcelKodBankasiUygulama" klasöründe birleştirilmiştir.
 
 # notlar
 - Kullanılan Office sürümüne göre projede yeniden derleme yapmak gerekebilir.
